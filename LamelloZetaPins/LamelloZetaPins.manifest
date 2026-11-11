@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "f4c4c7ad-b4cf-422f-9678-43a656436f3b",
+    "author": "",
+    "description": {
+        "": "Sketches and drills Lamello Zeta P2 CNC reference holes (Clamex P / P-System) for touching panels."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
